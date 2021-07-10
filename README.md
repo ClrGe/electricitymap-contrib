@@ -20,7 +20,7 @@ Here are some of the ways you can contribute:
 - [Translating electricitymap.org](https://github.com/tmrowco/electricitymap-contrib/wiki/Translating-electricitymap.org)
 - [Updating region capacities](https://github.com/tmrowco/electricitymap-contrib/wiki/Update-region-capacities)
 
-Join us on [Slack](https://slack.tmrow.com) if you wish to discuss development or need help to get started.
+Join us  on [Slack](https://slack.tmrow.com) if you wish to discuss development or need help to get started.
 
 We would love your feedback on how to improve the contribution experience, please feel free to fill out this [form](https://forms.gle/VRWvEFwhtnhpzPVX8)
 
